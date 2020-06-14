@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle.iml" group="Readability_Score/Problems-Area_of_a_circle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_main.iml" group="Readability_Score/Problems-Area_of_a_circle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_test.iml" group="Readability_Score/Problems-Area_of_a_circle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Problems-Difference_between_two_doubles.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Problems-Difference_between_two_doubles.iml" group="Readability_Score/Problems-Difference_between_two_doubles" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Problems-Difference_between_two_doubles_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Problems-Difference_between_two_doubles_main.iml" group="Readability_Score/Problems-Difference_between_two_doubles" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Problems-Difference_between_two_doubles_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Difference between two doubles/Problems-Difference_between_two_doubles_test.iml" group="Readability_Score/Problems-Difference_between_two_doubles" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance.iml" group="Readability_Score/Problems-Distance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance_main.iml" group="Readability_Score/Problems-Distance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance_test.iml" group="Readability_Score/Problems-Distance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula.iml" group="Readability_Score/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_main.iml" group="Readability_Score/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_test.iml" group="Readability_Score/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow.iml" group="Readability_Score/Problems-Pow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow_main.iml" group="Readability_Score/Problems-Pow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pow/Problems-Pow_test.iml" group="Readability_Score/Problems-Pow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation.iml" group="Readability_Score/Problems-Quadratic_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation_main.iml" group="Readability_Score/Problems-Quadratic_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation_test.iml" group="Readability_Score/Problems-Quadratic_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability_Score.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability_Score.iml" group="Readability_Score" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" group="Readability_Score/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" group="Readability_Score/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" group="Readability_Score/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Readability_Score/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Readability_Score/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Readability_Score/util" />
+    </modules>
+  </component>
+</project>
